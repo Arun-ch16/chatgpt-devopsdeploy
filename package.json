@@ -1,0 +1,17 @@
+{
+  "name": "chatgpt-devopsdeploy",
+  "version": "0.1.0",
+  "description": "Sample patient-care microservice for DevOps deployment exercises",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "node ./tests/health.test.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
